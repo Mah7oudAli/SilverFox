@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Readex+Pro:wght@160..700&display=swap');
+
+footer {
+    margin-top: 6.5rem;
+    background: linear-gradient(0deg, #000000 10%, #ffffff 100%);    text-align: center;
+    padding: 5px 0;
+    text-decoration: none;
+    font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+footer a, b {
+    color: rgb(100, 23, 189);
+    text-decoration: none;
+    
+}
+footer span{
+    color: rgb(72, 52, 143);
+    font-weight: bold;
+}
